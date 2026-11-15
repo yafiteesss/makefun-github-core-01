@@ -1,5 +1,11 @@
 # forge — a standalone GitHub-compatible git forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/yafiteesss/makefun-github-core-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/yafiteesss/makefun-github-core-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
+Entry for the [github-core-clone-01 bounty on make.fun](https://make.fun/bounty/github-core-clone-01) (referral code `tgs239he`).
+
 One process, Node 22 standard library only, no UI, no git binary, no
 outside service. It serves git smart HTTP (upload-pack v2, receive-pack
 v0), the REST v3 API under `/api/v3`, GraphQL v4 at `/api/graphql` and an
